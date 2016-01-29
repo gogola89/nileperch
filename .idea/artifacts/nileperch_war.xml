@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="nileperch:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="nileperch-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="nileperch:war exploded" />
+    </root>
+  </artifact>
+</component>
